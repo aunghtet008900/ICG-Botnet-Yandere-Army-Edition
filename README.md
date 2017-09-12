@@ -3,10 +3,11 @@ PHP Botnet For Ddos
 
 ![screenshot](https://3.bp.blogspot.com/-ryfo-yQDuUM/WIvcIM8LRyI/AAAAAAAAAaE/0CY-9t2TESQaIHOOofeMWNLWC4IUxOl0gCLcB/s1600/lock.png)
 
-# Video Demo
+# Video Demo AndBlog Review
 
 [![How To Make Botnet (2017)](https://i.ytimg.com/vi/P-zUkBOgdwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=P-zUkBOgdwY)
 
+ICG Botnet by Yukinoshita 47 (GSH) : https://watugedhe.blogspot.co.id/2017/04/icg-botnet-by-yukinoshita-47-gsh.html?m=1
 ______________________________________
 
 ICG-BOTNET "YANDERE ARMY EDITION"
