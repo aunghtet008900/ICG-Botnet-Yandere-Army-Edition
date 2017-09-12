@@ -3,7 +3,7 @@ PHP Botnet For Ddos
 
 ![screenshot](https://3.bp.blogspot.com/-ryfo-yQDuUM/WIvcIM8LRyI/AAAAAAAAAaE/0CY-9t2TESQaIHOOofeMWNLWC4IUxOl0gCLcB/s1600/lock.png)
 
-# Video Demo AndBlog Review
+# Video Demo And Blog Review
 
 [![How To Make Botnet (2017)](https://i.ytimg.com/vi/P-zUkBOgdwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=P-zUkBOgdwY)
 
